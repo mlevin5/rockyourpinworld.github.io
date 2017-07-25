@@ -15,6 +15,6 @@ img {
 #col_img {
     max-width: 100%;
     height: auto;
-    width: 100%; /* ie8 */
+    width: 80%; /* ie8 */
 }
 

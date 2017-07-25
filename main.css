@@ -7,9 +7,9 @@ img {
     color: white;
     font-family: Arial,Helvetica,sans-serif;
     font-size: small;
-  -moz-column-width: 24em;
-  -moz-columns: 24em;
-  -webkit-columns: 24em;
-  columns: 24em;
+  -moz-column-width: 30em;
+  -moz-columns: 30em;
+  -webkit-columns: 30em;
+  columns: 30em;
 }
 

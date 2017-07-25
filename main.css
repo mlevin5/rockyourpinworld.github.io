@@ -12,4 +12,9 @@ img {
   -webkit-columns: 30em;
   columns: 30em;
 }
+#col_img {
+    max-width: 100%;
+    height: auto;
+    width: 100%; /* ie8 */
+}
 

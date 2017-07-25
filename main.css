@@ -5,6 +5,9 @@ img {
 }
 
 #col {
+    color: white;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: small;
   -moz-column-count: 2;
   -webkit-column-count: 2;
   column-count: 2;
